@@ -1,120 +1,168 @@
-# Hi there 👋, I'm Samuel Akuffo
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+at+FlameCore;Computer+Science+Student;Building+Digital+Experiences;Learning+%26+Creating+Every+Day" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:FACC15,100:000000&height=220&section=header&text=Samuel%20Akuffo&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+%40+FlameCore;Computer+Science+Student;Building+Beautiful+Digital+Experiences;Designing+Ideas+Into+Reality" />
 
-## 🎨 UI/UX Designer | 💻 Computer Science Student | 🚀 Technology Enthusiast
-
-Welcome to my GitHub profile! I am a UI/UX Designer at **FlameCore**, passionate about creating meaningful digital experiences through design, technology, and innovation.
-
-I specialize in transforming ideas into intuitive interfaces through user research, wireframing, prototyping, and modern design practices.
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
 
-- 🎨 UI/UX Designer at **FlameCore**
-- 📚 Statistics with Computer Science Student at the University of Ghana
-- 🌱 Currently learning Frontend Development and Advanced UI/UX Design
-- 🔭 Designing digital products and improving user experiences
-- 🤝 Interested in collaborating on innovative projects
-- ⚡ Fun fact: I enjoy combining creativity with technology
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Designer
+
+I am a UI/UX Designer at **FlameCore**, passionate about creating meaningful digital experiences.
+
+I focus on:
+
+* User Interface Design
+* User Experience Design
+* Wireframing
+* Prototyping
+* Design Systems
+* Product Thinking
+
+</td>
+
+<td width="50%">
+
+### 💻 Developer
+
+I combine design with technology to create functional digital solutions.
+
+Currently working with:
+
+* Java
+* Python
+* HTML
+* CSS
+* Git & GitHub
+* Software Engineering Practices
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🚀 My Journey
+
+* 🎨 UI/UX Designer at **FlameCore**
+* 🎓 Statistics with Computer Science Student at the University of Ghana
+* 🌱 Improving my skills in product design and frontend development
+* 🔭 Building digital experiences through design and code
+* 🤝 Open to collaborating on innovative projects
 
 ---
 
 # 🛠️ Skills & Tools
 
-### 🎨 Design Tools
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma,xd" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,html,css,java,python,git,github,vscode" />
 
-### 💻 Programming & Development
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode" />
-</p>
+<br>
+
+<div align="center">
+
+![UI Design](https://img.shields.io/badge/UI%2FUX%20Design-22C55E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+![Prototyping](https://img.shields.io/badge/Prototyping-FACC15?style=for-the-badge)
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-000000?style=for-the-badge)
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
+
+## 🎨 FlameCore Design Projects
+
+Creating user-centered designs and digital experiences using modern UI/UX principles.
+
+**Focus Areas:**
+
+* User flows
+* Wireframes
+* High-fidelity prototypes
+* Design systems
+* Responsive interfaces
+
+---
 
 ## 🔎 Java Searching & Sorting Application
 
 A console-based Java application implementing searching and sorting algorithms.
 
-**Features**
-- Linear Search
-- Binary Search
-- Sorting Algorithms
-- Object-Oriented Programming Concepts
+**Features:**
 
-
----
-
-## 🎨 FlameCore Design Projects
-
-UI/UX designs and prototypes focused on creating simple, modern, and user-friendly digital experiences.
-
-**Includes**
-- User flows
-- Wireframes
-- High-fidelity prototypes
-- Design systems
-
+* Linear Search
+* Binary Search
+* Sorting Algorithms
+* Object-Oriented Programming Concepts
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samuelakuffo123&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=samuelakuffo123&show_icons=true&theme=transparent&hide_border=true&title_color=22C55E&icon_color=FACC15" />
 
-</p>
+<br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelakuffo123&theme=transparent&hide_border=true&ring=22C55E&fire=FACC15" />
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelakuffo123&theme=tokyonight" />
-
-</p>
-
+</div>
 
 ---
 
-# 🧠 Currently Learning
+# 📚 Currently Learning
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FACC15&width=500&lines=Advanced+UI%2FUX+Design;Frontend+Development;Software+Engineering;Product+Design;Open+Source+Contribution" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&width=600&lines=Advanced+UI%2FUX+Design;Frontend+Development;Software+Engineering;Product+Design;Open+Source+Contribution" />
+
+</div>
 
 ---
 
 # 🤝 Let's Connect
 
-<p>
-<a href="www.linkedin.com/in/samuel-akuffo-b1b478350">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<div align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge"/>
 </a>
-</p>
 
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=samuelakuffo123&label=Profile%20Views&color=green&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=samuelakuffo123&label=Profile%20Views&color=22C55E&style=flat"/>
 
-</p>
+<br><br>
 
+### 🔥 Designing Ideas | Building Experiences | Creating Impact
 
-<h3 align="center">
-✨ Thanks for visiting my profile! Keep building, keep learning 🚀
-</h3>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:22C55E,100:FACC15&height=120&section=footer" width="100%"/>
