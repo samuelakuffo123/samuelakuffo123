@@ -143,7 +143,7 @@ A console-based Java application implementing searching and sorting algorithms.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/samuel-akuffo-b1b478350/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
