@@ -96,7 +96,7 @@ UI/UX designs and prototypes focused on creating simple, modern, and user-friend
 # 🤝 Let's Connect
 
 <p>
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/samuel-akuffo-b1b478350">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
