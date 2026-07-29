@@ -1,70 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:FACC15,100:000000&height=220&section=header&text=Samuel%20Akuffo&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=220&section=header&text=Samuel%20Akuffo&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+%40+FlameCore;Computer+Science+Student;Building+Beautiful+Digital+Experiences;Designing+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer+at+FlameCore;Computer+Science+Student;Designing+Beautiful+Digital+Experiences;Building+Products+with+Purpose"/>
 
 </div>
 
 ---
-
-# 👋 About Me
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Designer
-
-I am a UI/UX Designer at **FlameCore**, passionate about creating meaningful digital experiences.
-
-I focus on:
-
-* User Interface Design
-* User Experience Design
-* Wireframing
-* Prototyping
-* Design Systems
-* Product Thinking
-
-</td>
-
-<td width="50%">
-
-### 💻 Developer
-
-I combine design with technology to create functional digital solutions.
-
-Currently working with:
-
-* Java
-* Python
-* HTML
-* CSS
-* Git & GitHub
-* Software Engineering Practices
-
-</td>
-</tr>
-</table>
+# ✨ About Me
 
 </div>
 
+I’m **Samuel Akuffo**, a **UI/UX Designer at FlameCore** and a **Statistics with Computer Science student at the University of Ghana**.
+
+I enjoy creating digital products that feel **simple, elegant, and intuitive**. My approach is inspired by modern product design principles: clarity, consistency, and attention to detail.
+
+* 🎨 UI/UX Design
+* 🧩 Design Systems
+* 📱 Responsive Interfaces
+* 🔍 User Research & Wireframing
+* ⚡ Frontend Development
+* 🤝 Collaborative Product Building
+
 ---
 
-# 🚀 My Journey
+<div align="center">
 
-* 🎨 UI/UX Designer at **FlameCore**
-* 🎓 Statistics with Computer Science Student at the University of Ghana
-* 🌱 Improving my skills in product design and frontend development
-* 🔭 Building digital experiences through design and code
-* 🤝 Open to collaborating on innovative projects
+# 🛠️ Tools I Use
 
----
-
-# 🛠️ Skills & Tools
+</div>
 
 <div align="center">
 
@@ -72,83 +39,81 @@ Currently working with:
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-![UI Design](https://img.shields.io/badge/UI%2FUX%20Design-22C55E?style=for-the-badge\&logo=figma\&logoColor=white)
-
-![Prototyping](https://img.shields.io/badge/Prototyping-FACC15?style=for-the-badge)
-
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-000000?style=for-the-badge)
+# 🚀 Current Focus
 
 </div>
 
----
-
-# 🌟 Featured Projects
-
-## 🎨 FlameCore Design Projects
-
-Creating user-centered designs and digital experiences using modern UI/UX principles.
-
-**Focus Areas:**
-
-* User flows
-* Wireframes
-* High-fidelity prototypes
-* Design systems
-* Responsive interfaces
+* Designing polished user experiences at **FlameCore**
+* Strengthening my frontend development skills
+* Building portfolio-ready projects
+* Exploring product design and software engineering best practices
 
 ---
 
-## 🔎 Java Searching & Sorting Application
+<div align="center">
 
-A console-based Java application implementing searching and sorting algorithms.
+# 🌟 Featured Work
 
-**Features:**
+</div>
 
-* Linear Search
-* Binary Search
-* Sorting Algorithms
-* Object-Oriented Programming Concepts
+### 🎨 FlameCore Design Projects
+
+Crafting user-centered interfaces, prototypes, and design systems with a strong emphasis on usability and visual refinement.
+
+### 🔎 Java Searching & Sorting Application
+
+A Java console application demonstrating classic searching and sorting algorithms using object-oriented programming principles.
 
 ---
+
+<div align="center">
 
 # 📊 GitHub Analytics
 
+</div>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samuelakuffo123&show_icons=true&theme=transparent&hide_border=true&title_color=22C55E&icon_color=FACC15" />
+<img src="https://github-readme-stats.vercel.app/api?username=samuelakuffo123&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&icon_color=22C55E&text_color=9CA3AF" width="48%"/>
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelakuffo123&theme=transparent&hide_border=true&ring=22C55E&fire=FACC15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelakuffo123&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=6B7280" width="48%"/>
 
 </div>
 
 ---
 
-# 📚 Currently Learning
+<div align="center">
+
+# 📚 Learning
+
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FACC15&center=true&width=600&lines=Advanced+UI%2FUX+Design;Frontend+Development;Software+Engineering;Product+Design;Open+Source+Contribution" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&pause=1200&color=22C55E&center=true&width=620&lines=Advanced+UI%2FUX+Design;Frontend+Development;Software+Engineering;Product+Design;Open+Source+Contribution"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+<div align="center">
+
+# 🤝 Connect
+
+</div>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/samuel-akuffo-b1b478350/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit-22C55E?style=for-the-badge"/>
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
 
 </div>
@@ -157,12 +122,12 @@ A console-based Java application implementing searching and sorting algorithms.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=samuelakuffo123&label=Profile%20Views&color=22C55E&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=samuelakuffo123&label=Profile%20Views&color=22C55E&style=flat-square"/>
 
 <br><br>
 
-### 🔥 Designing Ideas | Building Experiences | Creating Impact
+###  Designing Simplicity • Building Experiences • Creating Impact
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:22C55E,100:FACC15&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=120&section=footer" width="100%"/>
